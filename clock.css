@@ -1,0 +1,16 @@
+body {
+	font-family: 'Lato';
+	text-align: center;
+	margin-top: 200px;
+	color: white;
+}
+
+#clock {
+	font-weight: 300;
+	font-size: 170px;
+}
+
+footer {
+	display: block;
+	margin-top: 370px;
+}
